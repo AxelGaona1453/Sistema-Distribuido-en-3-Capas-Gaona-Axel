@@ -376,3 +376,15 @@ Abre tu navegador de preferencia en la computadora anfitriona (física) y diríg
 http://localhost:8080/Frontend/
 ```
 El sistema debe desplegar el formulario, permitiendo persistir datos dinámicamente sobre MariaDB tras validar las lógicas del Backend en Express.  
+
+Capturas de Pantalla del Sistema en Funcionamiento
+A continuación, se documenta la evidencia visual del correcto despliegue, inserción y consulta en arquitectura distribuida:
+
+Interfaz de Carga del Sistema (Front)
+<img width="707" height="165" alt="image" src="https://github.com/user-attachments/assets/4d21551a-ca4e-4fa4-91ec-18c50500a0b7" />
+
+Confirmación de Alumno Guardado 
+<img width="461" height="148" alt="image" src="https://github.com/user-attachments/assets/1ab27689-b43f-4e5d-979e-29275c4196e1" />
+
+Consulta y Listado de Datos Persistidos Ordenados
+<img width="757" height="306" alt="image" src="https://github.com/user-attachments/assets/7ca7995c-c38c-423f-beb8-6c303aa9566f" />
